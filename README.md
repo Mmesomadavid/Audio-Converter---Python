@@ -8,7 +8,7 @@ This web application allows users to upload audio files for speech recognition. 
 1. **Clone the Repository:**
 
     ```bash
-    git clone https://github.com/your-username/speech-recognition-app.git
+    git clone https://github.com/Mmesomadavid/speech-recognition-app.git
     ```
 
 2. **Navigate to the Project Directory:**
